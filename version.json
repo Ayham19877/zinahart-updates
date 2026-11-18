@@ -1,6 +1,6 @@
 {
   "versionCode": 20261118,
   "versionName": "4.0",
-  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/zinahart-updates/main/ZinahArt_v4.0.apk",
+  "apkUrl": "https://github.com/Ayham19877/zinahart-updates/releases/download/v4.0/ZinahArt_v4.0.apk",
   "notes": "Vector engine: selectable, movable, scalable and rotatable strokes; 16 layers with blend modes and locks; in-app updater"
 }
